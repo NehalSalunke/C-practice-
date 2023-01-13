@@ -1,0 +1,6 @@
+D:\CSharp\InheritanceLibrary\bin\Debug\InheritanceLibrary.dll
+D:\CSharp\InheritanceLibrary\bin\Debug\InheritanceLibrary.pdb
+D:\CSharp\InheritanceLibrary\obj\Debug\InheritanceLibrary.csproj.AssemblyReference.cache
+D:\CSharp\InheritanceLibrary\obj\Debug\InheritanceLibrary.csproj.CoreCompileInputs.cache
+D:\CSharp\InheritanceLibrary\obj\Debug\InheritanceLibrary.dll
+D:\CSharp\InheritanceLibrary\obj\Debug\InheritanceLibrary.pdb

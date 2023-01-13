@@ -1,0 +1,11 @@
+D:\CSharp\InheritanceExample\bin\Debug\InheritanceExample.exe.config
+D:\CSharp\InheritanceExample\bin\Debug\InheritanceExample.exe
+D:\CSharp\InheritanceExample\bin\Debug\InheritanceExample.pdb
+D:\CSharp\InheritanceExample\bin\Debug\InheritanceLibrary.dll
+D:\CSharp\InheritanceExample\bin\Debug\InheritanceLibrary.pdb
+D:\CSharp\InheritanceExample\obj\Debug\InheritanceExample.csproj.AssemblyReference.cache
+D:\CSharp\InheritanceExample\obj\Debug\InheritanceExample.csproj.SuggestedBindingRedirects.cache
+D:\CSharp\InheritanceExample\obj\Debug\InheritanceExample.csproj.CoreCompileInputs.cache
+D:\CSharp\InheritanceExample\obj\Debug\InheritanceExample.csproj.CopyComplete
+D:\CSharp\InheritanceExample\obj\Debug\InheritanceExample.exe
+D:\CSharp\InheritanceExample\obj\Debug\InheritanceExample.pdb
